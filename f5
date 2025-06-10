@@ -1,0 +1,3 @@
+to check git pull
+it will show and aplly the changes at same time 
+git pull=git fetch+git merge
